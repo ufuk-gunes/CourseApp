@@ -1,0 +1,16 @@
+﻿@model Request
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="bg-dark text-white">
+    @Model.Name <br />
+    @Model.Phone  <br />
+    @Model.Email <br />
+    @Model.Message <br />
+</div>
+
+
+<h2>The course is going to be start soon</h2>
+<h4>You are invited</h4>
+<a asp-action="AddRequest" class="btn btn-primary">Create a Request</a>
+

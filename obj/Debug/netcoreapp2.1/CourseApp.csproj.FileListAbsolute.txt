@@ -1,0 +1,124 @@
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.deps.json
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.json
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.dev.json
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csprojAssemblyReference.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfo.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.dll
+C:\Users\Section3\source\repos\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.input.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.output.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorCoreGenerate.cache
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CopyComplete
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRequest.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.deps.json
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.json
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.dev.json
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.dll
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csprojAssemblyReference.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfo.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.input.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.output.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorCoreGenerate.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRequest.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\09.30.2019 ASP.Net Core Giriş\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CopyComplete
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.deps.json
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.json
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.dev.json
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.dll
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csprojAssemblyReference.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfo.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.input.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.output.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorCoreGenerate.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRequest.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CopyComplete
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.01.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Edit.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Edit.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Instructor\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.deps.json
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.json
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.runtimeconfig.dev.json
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.dll
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\bin\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csprojAssemblyReference.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorAssemblyInfo.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.AssemblyInfo.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.input.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.TagHelpers.output.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorCoreGenerate.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Edit.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Course\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRequest.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Thanks.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Instructor\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.Views.pdb
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.dll
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.pdb
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\CourseApp.csproj.CopyComplete
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Instructor\InstructorChange.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Instructor\InstructorCreate.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Instructor\InstructorEdit.g.cshtml.cs
+C:\Users\Section3\source\repos\10.03.2019\CourseApp\CourseApp\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs

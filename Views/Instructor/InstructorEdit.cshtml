@@ -1,0 +1,33 @@
+﻿@model Instructor
+@{ int counter = 0;}
+
+<form asp-action="Change" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="Name" />
+    @foreach (var course in Model.Courses)
+    {
+        <div class="row my-2">
+            <input type="hidden" name="Courses[@counter].Id" value="@course.Id" />
+            <input type="hidden" name="Courses[@counter].IsActive" @(Html.Raw(course.IsActive ? "value=\"true\"" : "value=\"false\"")) />
+            <input type="hidden" class="form-control" name="Courses[@counter].Name" value="@course.Name" />
+            <input type="hidden" class="form-control" name="Courses[@counter].Price" value="@course.Price" />
+
+
+            <div class="col">
+                <input type="text" name="Courses[@counter].Name" class="form-control " />
+            </div>
+            <div class="col">
+                <input type="text" name="Courses[@counter].Price" class="form-control " />
+            </div>
+        </div>
+        counter++;
+    }
+
+    <div class="row mt-2">
+        <col class="text-center">
+        <button type="submit" class="btn btn-success">Submit</button>
+        <a asp-action="Index" class="btn btn-primary">Cancel</a>
+        </col>
+    </div>
+
+</form>

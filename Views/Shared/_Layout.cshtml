@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/vendor/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    <script src="~/vendor/jquery/dist/jquery.js"></script>
+    <script src="~/vendor/bootstrap/dist/js/bootstrap.js"></script>
+    <script>
+        $(".delete-link").click(function () {
+            return confirm("Silmek istediğinize emin misiniz?");
+        })
+    </script>
+</body>
+</html>
